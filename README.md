@@ -1,3 +1,4 @@
-Hi everyone 
+Quick Web Game with mouse only. 
 
-👀 <a href="https://hasan-naser.com">hasan-naser.com</a>
+See How Well You Can Do 👀 
+
